@@ -1,2 +1,3 @@
 # demo-di-lib
-DI demo: Object Container
+
+DI demo: Dependency Injection container.

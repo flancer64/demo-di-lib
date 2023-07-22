@@ -1,0 +1,30 @@
+{
+  "name": "@flancer64/demo-di-lib",
+  "version": "0.1.0",
+  "description": "DI demo: Dependency Injection container.",
+  "keywords": [
+    "dependency injection",
+    "di",
+    "dynamic import",
+    "ecmascript 2015",
+    "es6+"
+  ],
+  "homepage": "https://github.com/flancer64/demo-di-lib#readme",
+  "bugs": {
+    "url": "https://github.com/flancer64/demo-di-lib/issues"
+  },
+  "license": "Apache-2.0",
+  "author": {
+    "name": "Alex Gusev",
+    "email": "alex@flancer64.com",
+    "url": "https://github.com/flancer64"
+  },
+  "main": "src/Shared/Container.mjs",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flancer64/demo-di-lib.git"
+  },
+  "scripts": {},
+  "devDependencies": {}
+}
