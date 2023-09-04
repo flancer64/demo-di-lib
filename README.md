@@ -9,4 +9,5 @@ The package contains 3 modules:
 * [src/Logger.js](./src/Logger.js): A factory to create a new function with one dependency (config).
 * [src/Service.js](./src/Service.js): A class to create new instances with 2 dependencies (config & logger).
 
-See the `@flancer64/demo-di-lib` package for an example of how to use this library.
+See the [@flancer64/demo-di-app](https://github.com/flancer64/demo-di-app) package for an example of how to use this
+library.
