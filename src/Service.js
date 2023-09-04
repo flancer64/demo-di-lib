@@ -14,15 +14,15 @@ export default class Sample_Lib_Service {
             Sample_Lib_Logger$: logger,
         }
     ) {
-
-        logger(`Service '${this.constructor.name}' is created for app '${config.name}'.`);
-
         /**
          * @param {string} param
          * @memberOf Sample_Lib_Service.prototype
          */
         this.exec = function (param) {
-            logger(`Service running with '${param}' param.`);
+            logger(`Library service running with '${param}' param.`);
         };
+
+        logger(`New instance of the service '${this.constructor.name}' is created for the app '${config.name}'.`);
+
     }
 }

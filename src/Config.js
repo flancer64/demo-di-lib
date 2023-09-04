@@ -4,5 +4,5 @@
  * @namespace Sample_Lib_Config
  */
 export default {
-    name: 'Sample App'
+    name: 'Sample Lib'
 }

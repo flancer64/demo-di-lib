@@ -1,13 +1,15 @@
 {
   "name": "@flancer64/demo-di-lib",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "DI demo: shared library.",
   "keywords": [
     "dependency injection",
     "di",
     "dynamic import",
     "ecmascript 2015",
-    "es6+"
+    "es6 modules",
+    "teqfw",
+    "tequilla framework"
   ],
   "homepage": "https://github.com/flancer64/demo-di-lib#readme",
   "bugs": {
@@ -23,7 +25,5 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/flancer64/demo-di-lib.git"
-  },
-  "scripts": {},
-  "devDependencies": {}
+  }
 }
